@@ -2,6 +2,10 @@
 A graphical editor for TotalFinder on macOS. View and edit the settings in its plist file through a user-friendly interface, with English and Spanish support, ON/OFF toggles, numeric settings, and safe saving of your configuration.
 
 
+## Installation
+
+Download the ZIP file from [Releases](../../releases), unzip it, and move the app to your Applications folder.
+
 ## First use
 
 ### Locate the TotalFinder settings file
